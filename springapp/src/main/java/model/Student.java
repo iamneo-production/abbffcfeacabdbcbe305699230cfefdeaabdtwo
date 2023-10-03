@@ -10,4 +10,4 @@ public class Student {
     private String lastName;
 
     // Constructor, getters, and setters
-}
+} 
